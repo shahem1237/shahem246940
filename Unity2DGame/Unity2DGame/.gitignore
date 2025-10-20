@@ -1,0 +1,36 @@
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
+MemoryCaptures/
+Logs/
+Assets/AssetStoreTools/
+Assets/StreamingAssets/
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+
+# macOS
+.DS_Store
+.Trashes
+*.unitypackage
+
+# Windows
+Thumbs.db
+
+# Other
+*.bak
